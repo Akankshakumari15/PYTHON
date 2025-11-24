@@ -20,5 +20,7 @@ print(tuples)
 
 # tuple slicing:: ending index is not included in the sliced substring
 print(tup[2:5])
+print(tup[:3])
+print(tup[0:])
 
 
