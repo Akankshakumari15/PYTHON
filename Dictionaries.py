@@ -25,6 +25,7 @@ print(type(info))   #class::dict(dictionary)
 # to access a certain key of a dictionary
 print(info["name"])
 print(info["topics"])
+# print(info["college"])==>KeyError:::if u try to access a key that does not exist in the dictionary
 
 # to change any value of keys in the dictionary
 info["name"]="akanksha"
